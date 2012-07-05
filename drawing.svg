@@ -11,17 +11,29 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="100"
-   height="100"
+   width="32"
+   height="32"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   inkscape:export-filename="C:\Users\Paul\Checkouts\7970WorkAround\src\main\resources\trayicon.png"
-   inkscape:export-xdpi="28.603352"
-   inkscape:export-ydpi="28.603352"
-   sodipodi:docname="New document 1">
+   inkscape:export-filename="C:\Users\Paul\Checkouts\7970WorkAround\trayicon.png"
+   inkscape:export-xdpi="45.942173"
+   inkscape:export-ydpi="45.942173"
+   sodipodi:docname="drawing.svg">
   <defs
      id="defs4">
+    <linearGradient
+       id="linearGradient3795"
+       osb:paint="gradient">
+      <stop
+         style="stop-color:#575757;stop-opacity:1;"
+         offset="0"
+         id="stop3797" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="1"
+         id="stop3799" />
+    </linearGradient>
     <linearGradient
        id="linearGradient5207">
       <stop
@@ -30,12 +42,12 @@
          id="stop5209" />
       <stop
          id="stop5217"
-         offset="0.54822534"
+         offset="0.24945988"
          style="stop-color:#e60000;stop-opacity:1;" />
       <stop
-         id="stop5215"
-         offset="0.74901408"
-         style="stop-color:#a3a3a3;stop-opacity:1;" />
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.74837965"
+         id="stop3767" />
       <stop
          style="stop-color:#ffffff;stop-opacity:1;"
          offset="1"
@@ -49,16 +61,14 @@
          offset="0"
          id="stop5201" />
     </linearGradient>
-    <radialGradient
+    <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient5207"
-       id="radialGradient5213"
-       cx="400.71429"
-       cy="510.93362"
-       fx="400.71429"
-       fy="510.93362"
-       r="339.78571"
-       gradientTransform="matrix(0.14746765,0,0,0.14555639,-8.6728137,927.99003)"
+       id="linearGradient3807"
+       x1="1"
+       y1="1051.3622"
+       x2="29"
+       y2="1021.8481"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
@@ -68,17 +78,25 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.959798"
-     inkscape:cx="69.831897"
-     inkscape:cy="100.79938"
+     inkscape:zoom="30.935484"
+     inkscape:cx="16"
+     inkscape:cy="14.706986"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:window-width="1920"
      inkscape:window-height="1138"
      inkscape:window-x="1912"
      inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3769"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -95,15 +113,15 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-952.36218)">
+     transform="translate(0,-1020.3622)">
     <path
-       style="fill:url(#radialGradient5213);fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
-       d="M 0.38591314,1051.7683 C 26.298087,1032.993 38.516836,1011.112 38.516836,1011.112 c -14.114761,1.4118 -18.53879,5.5057 -22.330817,6.9173 0,0 24.648165,-18.06939 43.397619,-36.27995 -10.954736,-1.6941 -24.016154,3.67022 -24.016154,3.67022 13.482756,-12.70492 64.885776,-32.46842 64.885776,-32.46842 -13.892934,12.17236 -21.036134,18.52304 -31.980369,33.0512 12.218754,0.14101 24.851949,-6.09895 24.851949,-6.09895 -18.538792,20.3281 -46.805149,35.1189 -46.805149,35.1189 8.848054,0.706 17.693549,-3.1282 17.693549,-3.1282 0,0 -24.011059,24.7693 -63.82732686,39.8742 z"
+       style="fill:url(#linearGradient3807);fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:6;stroke-opacity:0.70103090999999995;stroke-dasharray:none"
+       d="m 1,1051.3622 c 1,-1 12.34168,-17.2762 12.34168,-17.2762 C 13,1034.3622 5,1036.3622 4.2719796,1036.5746 14,1025.3622 30,1021.3622 30,1021.3622 c 0,0 -12,13 -11.63917,12.5821 C 20,1033.3622 27,1033.3622 27.363255,1033.208 22,1041.3622 2,1051.3622 1,1051.3622 z"
        id="path2985"
        inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ccccccccccc"
+       sodipodi:nodetypes="ccccccc"
        inkscape:export-filename="C:\Users\Paul\Checkouts\7970WorkAround\src\main\resources\trayicon.png"
-       inkscape:export-xdpi="14.504249"
-       inkscape:export-ydpi="14.504249" />
+       inkscape:export-xdpi="45.265224"
+       inkscape:export-ydpi="45.265224" />
   </g>
 </svg>
